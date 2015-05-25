@@ -16,3 +16,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The new file will contain the changes made by both branches. The diagram makes
 it easier to see the new DAG and thus the new path of dependencies
+
+What are the pros and cons of GitÎéÎ÷s automatic merging vs. always doing merges manually?
+-Automatic merging can save you time when things are obvious, but merge
+ conflicts can be really annoying to resolve
