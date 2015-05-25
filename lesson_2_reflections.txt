@@ -9,3 +9,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 -If you have multiple people working on a project, if you want to add new features.
+
+How do the diagrams help you visualize the branch structure?
+-The git repo with all its branches is just a DAG, with arrows pointing in the direction of the parent. That makes it very easy to understand the reachability notion, how the branches are set up, and it'll help when merging to see what the branches have in common
