@@ -1,0 +1,5 @@
+How did viewing a diff b/t 2 versions help you see bug that was introduced?
+-It helped narrow the search for where the bug was
+How does having history of a file make you more efficient programmer?
+-Having old copies will save you time if you mess something up and need
+a last working point
