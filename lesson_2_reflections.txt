@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 -Run git diff to compare what you have in your working directory versus the staging area and see if those changes make sense
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-If you have multiple people working on a project, if you want to add new features.
