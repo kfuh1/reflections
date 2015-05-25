@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+-It creates the .git file and sets up all the Git stuff needed
+
+How is the staging area different from the working directory and the repository?What value do you think it offers?
+-git status operates on both the working directory, but git add operates on the staging area. The staging area offers an intermediate point so that you can choose what you want to commit
